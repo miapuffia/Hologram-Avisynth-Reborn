@@ -1,7 +1,7 @@
 # Hologram-Avisynth-Reborn
 This script uses Avisynth or Avisynth+ to take 4 video clips [+ audio] and combine them into a composite video that forms a hologram in combination with a hologram pyramid.
-I based this script off of a no-longer maintained one by phuctk93 (https://github.com/phuctk93/Hologram_Avisynth)
-Please use his readme for instructions (it's not much).
+I based this script off of a no-longer maintained one by phuctk93 (https://github.com/phuctk93/Hologram_Avisynth).
+You need Avisynth, VirtualDub, and possibly codecs from K-Lite. Refer to the old script's repo for additional documentation.
 
 ## Improvements over the old script:
 * Music is optional
